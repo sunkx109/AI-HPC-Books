@@ -1,1 +1,5 @@
-. filter=lfs diff=lfs merge=lfs -text
+Hardware filter=lfs diff=lfs merge=lfs -text
+Heterogeneous[[:space:]]Computing filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+AI[[:space:]]Compiler filter=lfs diff=lfs merge=lfs -text
+Computer[[:space:]]Architecture filter=lfs diff=lfs merge=lfs -text
